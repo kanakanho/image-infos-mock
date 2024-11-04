@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "url": "https://192.168.101.52:5173/1200x900.png",
+    "url": "https://image-infos-mock.pages.dev/1200x900.png",
     "position": {
       "lat": 35.18449,
       "lon": 137.110881,
@@ -12,7 +12,7 @@
   },
   {
     "id": "2",
-    "url": "https://192.168.101.52:5173/1920x1080.png",
+    "url": "https://image-infos-mock.pages.dev/1920x1080.png",
     "position": {
       "lat": 35.184487,
       "lon": 137.110886,
